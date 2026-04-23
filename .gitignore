@@ -17,3 +17,5 @@ wandb/
 .idea/
 *.swp
 .DS_Store
+
+PLAN.md
