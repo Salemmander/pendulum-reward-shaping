@@ -6,7 +6,7 @@ A hands-on RL project: implementing PPO from scratch on Gymnasium's `Pendulum-v1
 
 Agent trained to balance 30° off vertical (custom reward wrapper):
 
-<![Agent balancing 30 degrees off vertical](videos/angle_balance.gif)>
+![Agent balancing 30 degrees off vertical](videos/angle_balance.gif)
 
 ## What I Built
 
