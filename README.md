@@ -6,7 +6,7 @@ A hands-on RL project: implementing PPO from scratch on Gymnasium's `Pendulum-v1
 
 Agent trained to balance 30° off vertical (custom reward wrapper):
 
-<https://github.com/Salemmander/pendulum-reward-shaping/raw/master/videos/angle_balance_full.mp4>
+<https://github.com/user-attachments/assets/efaa3443-b7f2-4f6d-af4e-75bae0d05fef>
 
 ## What I Built
 
